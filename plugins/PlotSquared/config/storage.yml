@@ -11,11 +11,11 @@ sqlite:
 mysql:
   # Should MySQL be used?
   use: true
-  host: "172.18.0.1"
-  port: "3306"
-  user: "u8_tpr1rmzAjw"
-  password: "TZQm1yOGDfoMv6XsuVAT0Z3D"
-  database: "s8_creatif"
+  host: "$mysql_host"
+  port: "$mysql_port"
+  user: "$mysql_user_creatif"
+  password: "$mysql_password_creatif"
+  database: "$mysql_database_creatif"
   # Set additional properties: https://goo.gl/wngtN8
   properties: 
   - "useSSL=true"
