@@ -11,7 +11,7 @@
 |   EssentialsXSpawn  |        2.18.1.9       | https://ci.ender.zone/job/EssentialsX/ |
 |   HeadDatabase      |         4.12.6        | https://www.spigotmc.org/resources/head-database.14280/ |
 |    IllegalStack     |         2.2.0e        | https://www.spigotmc.org/resources/dupe-fixes-illegal-stack-remover.44411/ |
-|      LuckPerms      |          5.1.26       | https://www.spigotmc.org/resources/luckperms-an-advanced-permissions-plugin.28140/ |
+|  LuckPerms-Bukkit   |          5.1.26       | https://www.spigotmc.org/resources/luckperms-an-advanced-permissions-plugin.28140/ |
 |     Plot2Dynmap     |          5.2          | https://www.spigotmc.org/resources/plot2dynmap.1292/ |
 |     PlotSquared     |        3.1-beta       | https://www.spigotmc.org/resources/dynmap.274/ |
 |        Vault        |          1.7.2        | https://www.spigotmc.org/resources/vault.34315/ |
