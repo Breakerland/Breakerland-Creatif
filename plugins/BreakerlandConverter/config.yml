@@ -1,0 +1,33 @@
+needConvertion: true
+debug: INFO
+
+reference:
+  type: mysql
+  host: $mysql_host
+  port: $mysql_port
+  user: $mysql_user_proxy
+  password: $mysql_password_proxy
+  database: $mysql_database_proxy
+  table: 'premium'
+  id: 'UUID'
+  name: 'Name'
+  premium: 'Premium'
+
+backend:
+  playerdata:
+    type: file
+    path: "plot/playerdata"
+    pattern: "%uuid%.dat"
+  essentials:
+    type: file
+    path: "plugins/Essentials/userdata"
+    pattern: "%uuid%.yml"
+  plotsquared:
+    type: mysql
+    host: $mysql_host
+    port: $mysql_port
+    user: $mysql_user_creatif
+    password: $mysql_password_creatif
+    database: $mysql_database_creatif
+    table: player_meta
+    field: uuid

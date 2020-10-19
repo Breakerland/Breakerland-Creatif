@@ -1,0 +1,37 @@
+# Menu type (toolbar, inventory)
+type: toolbar
+# Command alias
+alias: mod
+# List of GUI slot
+2:
+  item: 'PLAYER_HEAD 1 title:&2Homme owner:Toryar' # Item displayed in this slot
+  close: 
+  click:
+    action:
+      open: male # Open menu action
+      sound: entity.player.levelup
+6:
+  item: 'PLAYER_HEAD 1 title:&2Femme owner:lori110301'
+  click:
+    action:
+      open: female # Open menu action
+
+# item:        -- ItemStack icon.
+# keep-open:   -- If menu stay open after action.
+#
+# action/right-action/left-action:
+#   open:        -- Name of the other menu to open. It must be defined in "menus" folder.
+#   message:     -- Send player message.
+#   broadcast:   -- Broadcast message.
+#   pcommand:    -- Execute player command.
+#   scommand:    -- Execute server command.
+#
+# permission:  -- Permission needed to execute action.
+#
+# KIT ACTION
+# kit:         -- Buy level or next level of the player kit if it isn't specified
+#
+# BUY ACTION
+# buy:         -- Buy action is to purchased certains items
+#   price:     -- Price of the purchased (no price defined = 0)
+#   items:     -- List of items purchased (itemstack, level kit or command -> See kit example)

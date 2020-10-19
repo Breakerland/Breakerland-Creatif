@@ -1,0 +1,97 @@
+survivant:
+  default: false
+  children:
+  # Minecraft
+    minecraft.*: false
+    minecraft.command.seed: true
+  # Bukkit
+    bukkit.command.plugins: false
+    bukkit.command.version: false
+    bukkit.command.help: true
+    bukkit.command.tps: true
+  # AuthMe
+    authme.player: true
+  # BreakerLandPlugin
+    breakerlandmenu.menu.grades: true
+  # EssentialsX
+    essentials.mail.send: true
+    essentials.seen: true
+    essentials.warp: true
+    essentials.tpdeny: true
+    essentials.tpahere: true
+    essentials.tpaccept: true
+    essentials.tpacancel: true
+    essentials.tpa: true
+    essentials.spawn: true
+    essentials.rules: true
+    essentials.ping: true
+    essentials.mail: true
+    essentials.list: true
+    essentials.info: true
+    essentials.help: true
+    essentials.customtext: true
+    essentials.chat.url: true
+    essentials.back: true
+    essentials.afk.auto: true
+    essentials.afk: true
+  # FastLoginBukkit
+    fastlogin.bukkit.command.*: true
+  # LuckPerms
+    prefix.5.&f[&7S&f] &7: true
+  # PlayerWarps
+    pw.rate: true
+    pw.warp: true
+    pw.list: true
+    pw.warp: true
+    pw.open: true
+  # PlotSquared
+    plots.use: true
+    plots.plot.1: true
+    plots.permpack.basicinbox: true
+  # SimplePortal
+    simpleportals.portal.*: true
+    simpleportals.switchserver: true
+
+aventurier:
+    default: false
+    children:
+      essentials.delhome: true
+
+héro:
+    default: false
+    children:
+      CustomEnderChest.level.3: true
+      lands.lands.4: true
+      MyPet.command.respawn: true
+      music.command: true
+      wars.command.*: true
+      skinsetter.set: true
+
+légende:
+    default: false
+    children:
+      CustomEnderChest.level.4: true
+
+Empereur:
+    default: false
+    children:
+      CustomEnderChest.level.5: true
+
+premium:
+  default: false
+  children:
+  # ArmorStandTools
+    astools.*: true
+  # EssentialsX
+    essentials.ptime: true
+    essentials.pweather: true
+    essentials.signs.format: true
+    essentials.signs.color: true
+    essentials.signs.magic: true
+    essentials.chat.color: true
+    essentials.fly: true
+    essentials.hat: true
+    essentials.speed: true
+    essentials.speed.*: true
+  # WorldEdit
+    worldedit.*: true
