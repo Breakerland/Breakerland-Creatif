@@ -13,9 +13,9 @@ mysql:
   use: true
   host: "$mysql_host"
   port: "$mysql_port"
-  user: "$mysql_user_creatif"
-  password: "$mysql_password_creatif"
-  database: "$mysql_database_creatif"
+  user: "$mysql_user_$server_name"
+  password: "$mysql_password_$server_name"
+  database: "$mysql_database_$server_name"
   # Set additional properties: https://goo.gl/wngtN8
   properties: 
   - "useSSL=true"
