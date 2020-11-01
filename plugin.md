@@ -15,5 +15,7 @@
 |            Plot2Dynmap           |          5.2          | https://www.spigotmc.org/resources/plot2dynmap.1292/ |
 |            PlotSquared           |        3.1-beta       | https://www.spigotmc.org/resources/dynmap.274/ |
 |               Vault              |          1.7.2        | https://www.spigotmc.org/resources/vault.34315/ |
+|           ViaBackwards           |          3.2.0        | https://www.spigotmc.org/resources/viabackwards.27448/ |
+|            ViaVersion            |          3.2.0        | https://www.spigotmc.org/resources/viaversion.19254/ |
 |            VoxelSniper           |          6.1.2        | https://www.spigotmc.org/resources/voxelsniper.76791/ |
 |             WorldEdit            |  7.2.0-SNAPSHOT+5093  | https://enginehub.org/worldedit/#downloads |
