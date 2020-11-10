@@ -193,7 +193,7 @@ MinecraftPlayerJoinMessage:
 # %message%:     rejoindre le message tel que vu dans le jeu
 #
 MinecraftPlayerFirstJoinMessage:
-  Enabled: true
+  Enabled: false
   Webhook:
     Enable: false
     AvatarUrl: "%botavatarurl%"
