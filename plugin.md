@@ -4,7 +4,7 @@
 |        BreakerLandConverter      |          1.0          |  |
 |          BreakerLandMenu         |          1.1          |  |
 |  BungeeTabListPlus_BukkitBridge  |         3.4.1         | https://www.spigotmc.org/resources/bungeetablistplus.313/ |
-|             DiscordSRV           |         1.19.1        | https://snapshot.discordsrv.com/ |
+|             DiscordSRV           |         1.21.3        | https://snapshot.discordsrv.com/ |
 |               Dynmap             |        3.1-beta       | https://www.spigotmc.org/resources/dynmap.274/ |
 |            EssentialsX           |        2.18.1.9       | https://ci.ender.zone/job/EssentialsX/ |
 |          EssentialsXChat         |        2.18.1.9       | https://ci.ender.zone/job/EssentialsX/ |
